@@ -1,0 +1,6 @@
+build/
+*.pcm
+symbols.csv
+tx_dump/
+__pycache__/
+.vscode/
